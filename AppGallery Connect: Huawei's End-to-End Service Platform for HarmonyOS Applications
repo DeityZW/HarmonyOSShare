@@ -58,8 +58,6 @@ typescript
 
 typescript
 
-复制
-
 ```
 // Unified authentication implementation
 AGConnectAuth.getInstance().signInAnonymously()
