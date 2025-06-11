@@ -34,8 +34,6 @@ typescript
 
 typescript
 
-复制
-
 ```
 // Distributed UI component rendering implementation
 @Entry
@@ -84,8 +82,6 @@ typescript
 
 typescript
 
-复制
-
 ```
 // Screen configuration adaptation
 @AdaptiveLayout({
@@ -114,8 +110,6 @@ struct ContentLayout {
    ```
 
    bash
-
-   复制
 
    ```
    # Enable GPU-accelerated rendering
