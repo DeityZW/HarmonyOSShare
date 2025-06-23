@@ -1,6 +1,4 @@
-# DevEco Testing: Official Automation Testing Tool for HarmonyOS Applications
 
-&#x20;
 
 > These notes provide a high-level overview and may contain inaccuracies. For detailed information, please refer to the official documentation.
 
