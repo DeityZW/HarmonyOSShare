@@ -16,7 +16,6 @@ In HarmonyOS development, component reuse faces three main challenges with multi
 typescript
 ```
 
-复制
 
 ```
 // Multi-Source Adapter Implementation
@@ -65,7 +64,7 @@ class MultiSourceAdapter {
 typescript
 ```
 
-复制
+
 
 ```
 // Global State Management
@@ -112,7 +111,7 @@ fetchDataB().then(data => {
 typescript
 ```
 
-复制
+
 
 ```
 // RxJS Data Stream Merging
@@ -167,7 +166,7 @@ data$.subscribe(renderComponent);
 typescript
 ```
 
-复制
+
 
 ```
 // Multi-tier Data Flow Architecture
@@ -190,7 +189,7 @@ class DataService {
 typescript
 ```
 
-复制
+
 
 ```
 // Cache Management Implementation
@@ -217,7 +216,7 @@ class DataCache {
 typescript
 ```
 
-复制
+
 
 ```
 // Multi-Source Circuit Breaker
@@ -278,7 +277,7 @@ class FaultTolerantDataSource {
    typescript
    ```
 
-   复制
+   
 
    ```
    const prioritySources = [
@@ -294,7 +293,7 @@ class FaultTolerantDataSource {
    typescript
    ```
 
-   复制
+   
 
    ```
    const loadData = async () => {
@@ -312,7 +311,7 @@ class FaultTolerantDataSource {
    typescript
    ```
 
-   复制
+   
 
    ```
    retryPolicy.configure({
